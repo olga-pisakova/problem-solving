@@ -9,9 +9,9 @@ public class MinValueFinder {
         if(array.length == 1)
             return array[0];
         int min = array[0];
-        for(int i = 0; i < array.length; i++) {
-            if(array[i] < min)
-                min = array[i];
+        for (int j : array) {
+            if (j < min)
+                min = j;
         }
         return min;
     }

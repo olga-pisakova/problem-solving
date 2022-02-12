@@ -30,7 +30,4 @@ class MinValueFinderTest {
     public void ifArrayFromTR6ThenMinus4() {
         Assertions.assertEquals(-4, new MinValueFinder().searchMinValue(new int[]{4, 5, -4, -3}));
     }
-
-
-
 }
