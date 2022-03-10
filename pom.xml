@@ -12,6 +12,8 @@
     <modules>
         <module>find-the-minimum-value-in-an-integer-array</module>
         <module>maximal-profit</module>
+        <module>min-perimeter-rectangle</module>
+        <module>generator-short-url</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
