@@ -3,8 +3,6 @@ package com.gmail.zelenkova94.olya.minperimeter;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class MinPerimeterFinderTest {
 
     @Test
