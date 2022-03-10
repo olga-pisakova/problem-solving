@@ -1,0 +1,4 @@
+/**
+ * JavaDoc.
+ */
+package test;
